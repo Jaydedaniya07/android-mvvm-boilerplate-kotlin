@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "boilerplate"
+rootProject.name = "Android MVVM-Kotlin"
 include(":app")
  
